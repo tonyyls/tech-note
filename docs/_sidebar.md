@@ -2,4 +2,5 @@
 
   * [GIT提交规范](home/standard-git.md)
 
-* 常用工具
+* 综合知识
+  * [不常用的HTTP状态码](home/http-status.md)
